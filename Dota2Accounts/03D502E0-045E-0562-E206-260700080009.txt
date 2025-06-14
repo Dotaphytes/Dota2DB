@@ -1,1 +1,1 @@
-R,unlimited,xxxx
+E,2026-Jun-14 10:00,xxx@gmail.com
