@@ -1,1 +1,1 @@
-1, meron
+0, wala
