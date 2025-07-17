@@ -1,1 +1,1 @@
-T,2025-Jul-22 06:42:42,trialemail@gmail.com
+R,,sampleemail@gmail.com
